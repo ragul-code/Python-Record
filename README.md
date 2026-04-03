@@ -18,3 +18,8 @@ To build an automated trading system.
 
 ## Status
 In development
+
+## 🚀 Advanced Features
+- Live stock data using Yahoo Finance API
+- RSI-based signal generation
+- Telegram alert integration
